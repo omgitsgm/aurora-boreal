@@ -6,9 +6,6 @@ Este projeto foi desenvolvido para que eu pudesse colocar em prática todos os c
 
 ---
 <h3 align="center">💻 Como visualizar o projeto</h3>
-Acesse: <a href="https://omgitsgm.github.io/aurora-boreal/">https://omgitsgm.github.io/aurora-boreal/</a>
-<br><br>
-Ou
 <br><br>
 <ol>
   <li>Faça o download do repositório.</li>
