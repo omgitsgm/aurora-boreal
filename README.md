@@ -4,6 +4,11 @@
 
 Este projeto foi desenvolvido para que eu pudesse colocar em prática todos os conhecimentos adquiridos no curso Build Websites From Scratch with HTML & CSS. Apenas foi criada uma página web simples utilizando HTML e CSS.<br><br>
 
+<img src="readme-files/imagem1.png"/><br>
+<img src="readme-files/imagem2.png"/><br>
+<img src="readme-files/imagem3.png"/><br>
+<img src="readme-files/imagem4.png"/>
+
 ---
 <h3 align="center">💻 Como visualizar o projeto</h3>
 <br><br>
